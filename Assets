@@ -1,0 +1,9 @@
+{
+    "chainId": 101,
+    "address": "7bxKCgjyzDgmQsS1bAe95cuCsLorwSLCwQ7VmR3ebJ8C",
+    "symbol": "FROG",
+    "name": "Froglet",
+    "decimals": 8,
+    "logoURI": "Your token icon url",
+    "tags": []
+}
